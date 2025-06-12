@@ -60,6 +60,7 @@ Because users often have their own preferences for which variant of TensorFlow t
 ### Installation
 - Install ONNX master branch from source.
 - Install TensorFlow >= 2.8.0, tensorflow-probability and tensorflow-addons. (Note TensorFlow 1.x is no longer supported)
+- Run `pip install tf-keras`
 - Run `git clone https://github.com/onnx/onnx-tensorflow.git && cd onnx-tensorflow`.
 - Run `pip install -e .`.
 
